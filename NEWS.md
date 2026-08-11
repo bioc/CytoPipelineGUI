@@ -1,3 +1,8 @@
+# CytoPipelineGUI 1.11
+
+## CytoPipelineGUI 1.11.1
+(no change)
+
 # CytoPipelineGUI 1.9
 
 ## CytoPipelineGUI 1.9.1.
